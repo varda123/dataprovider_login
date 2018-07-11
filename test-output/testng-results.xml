@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="15557" started-at="2018-07-11T04:50:59Z" finished-at="2018-07-11T04:51:15Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="15557" started-at="2018-07-11T04:50:59Z" finished-at="2018-07-11T04:51:15Z">
+      <class name="test_classes.loginTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test_classes.loginTest@724af044]" name="beforeTest" is-config="true" duration-ms="4762" started-at="2018-07-11T10:20:59Z" finished-at="2018-07-11T10:21:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field" duration-ms="266" started-at="2018-07-11T10:21:04Z" data-provider="Authentication_with_no_password" finished-at="2018-07-11T10:21:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vardasaxena]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field -->
+        <test-method status="PASS" signature="attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field" duration-ms="184" started-at="2018-07-11T10:21:05Z" data-provider="Authentication_with_no_password" finished-at="2018-07-11T10:21:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shivamjaiswal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field -->
+        <test-method status="PASS" signature="attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field" duration-ms="172" started-at="2018-07-11T10:21:05Z" data-provider="Authentication_with_no_password" finished-at="2018-07-11T10:21:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rupashigoyal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field -->
+        <test-method status="PASS" signature="attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field" duration-ms="170" started-at="2018-07-11T10:21:05Z" data-provider="Authentication_with_no_password" finished-at="2018-07-11T10:21:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhinavratna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field -->
+        <test-method status="PASS" signature="attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field" duration-ms="169" started-at="2018-07-11T10:21:05Z" data-provider="Authentication_with_no_password" finished-at="2018-07-11T10:21:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[suparnasaxena]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field -->
+        <test-method status="PASS" signature="attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field" duration-ms="166" started-at="2018-07-11T10:21:05Z" data-provider="Authentication_with_no_password" finished-at="2018-07-11T10:21:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anuragratna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_Login_With_No_Password_Should_Annotate_Black_Password_Field -->
+        <test-method status="PASS" signature="attempt_Login_With_Incorrect_Password_Should_Render_Error_Message(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_Login_With_Incorrect_Password_Should_Render_Error_Message" duration-ms="387" started-at="2018-07-11T10:21:06Z" data-provider="Authentication_with_invalid_data" finished-at="2018-07-11T10:21:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vardasaxena]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bvvgh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_Login_With_Incorrect_Password_Should_Render_Error_Message -->
+        <test-method status="PASS" signature="attempt_Login_With_Incorrect_Password_Should_Render_Error_Message(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_Login_With_Incorrect_Password_Should_Render_Error_Message" duration-ms="435" started-at="2018-07-11T10:21:06Z" data-provider="Authentication_with_invalid_data" finished-at="2018-07-11T10:21:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shivamjaiswal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dhjhg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_Login_With_Incorrect_Password_Should_Render_Error_Message -->
+        <test-method status="PASS" signature="attempt_Login_With_Incorrect_Password_Should_Render_Error_Message(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_Login_With_Incorrect_Password_Should_Render_Error_Message" duration-ms="463" started-at="2018-07-11T10:21:06Z" data-provider="Authentication_with_invalid_data" finished-at="2018-07-11T10:21:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rupashigoyal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jhgbjk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_Login_With_Incorrect_Password_Should_Render_Error_Message -->
+        <test-method status="PASS" signature="attempt_Login_With_Incorrect_Password_Should_Render_Error_Message(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_Login_With_Incorrect_Password_Should_Render_Error_Message" duration-ms="543" started-at="2018-07-11T10:21:07Z" data-provider="Authentication_with_invalid_data" finished-at="2018-07-11T10:21:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhinavratna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ghvfjh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_Login_With_Incorrect_Password_Should_Render_Error_Message -->
+        <test-method status="PASS" signature="attempt_Login_With_Incorrect_Password_Should_Render_Error_Message(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_Login_With_Incorrect_Password_Should_Render_Error_Message" duration-ms="497" started-at="2018-07-11T10:21:07Z" data-provider="Authentication_with_invalid_data" finished-at="2018-07-11T10:21:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[suparnasaxena]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hgjhg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_Login_With_Incorrect_Password_Should_Render_Error_Message -->
+        <test-method status="PASS" signature="attempt_Login_With_Incorrect_Password_Should_Render_Error_Message(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_Login_With_Incorrect_Password_Should_Render_Error_Message" duration-ms="548" started-at="2018-07-11T10:21:08Z" data-provider="Authentication_with_invalid_data" finished-at="2018-07-11T10:21:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anuragratna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jhgkj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_Login_With_Incorrect_Password_Should_Render_Error_Message -->
+        <test-method status="PASS" signature="attempt_login_with_correct_credentials_should_go_to_timesheet_page(java.lang.String, java.lang.String)[pri:0, instance:test_classes.loginTest@724af044]" name="attempt_login_with_correct_credentials_should_go_to_timesheet_page" duration-ms="6005" started-at="2018-07-11T10:21:09Z" data-provider="Authentication_with_valid_data" finished-at="2018-07-11T10:21:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qainfotech]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_login_with_correct_credentials_should_go_to_timesheet_page -->
+      </class> <!-- test_classes.loginTest -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
